@@ -11,7 +11,8 @@ before using the script. please consider reading **rules** section to provide su
 - bs4 (Beautiful Soup 4)
 
 # usage
-```from htmltools.entities import Encrypter,EncryptionHardOne
+```
+from htmltools.entities import Encrypter,EncryptionHardOne
 html = "some html here"
 encryptContentOnly = Enctypter(html)
 html = encryptContentOnly.encodingLetter()
