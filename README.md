@@ -10,6 +10,9 @@ before using the script. please consider reading **rules** section to provide su
 - python 3.x
 - bs4 (Beautiful Soup 4)
 
+# installation
+i have finally added this project to PyPi under [htmltools-hcn1z1](https://pypi.org/project/htmltools-hcn1z1/0.0.1/).
+`` pip install htmltools-hcn1z1==0.0.1``
 # usage
 ```
 from htmltools.entities import Encrypter,EncryptionHardOne
